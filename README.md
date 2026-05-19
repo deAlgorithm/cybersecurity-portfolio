@@ -10,7 +10,7 @@ This repository documents my hands-on cybersecurity work including labs, audits,
 
 | Project | Description | Skills Demonstrated |
 |---|---|---|
-| [Botium Toys Internal Security Audit](./Google_Cybersecurity_Certificate/Course1_Foundations/Botium_Toys_Audit/) | Internal security audit covering controls assessment and compliance evaluation across PCI DSS, GDPR, and SOC frameworks | Security auditing, risk assessment, compliance, controls analysis |
+| [Botium Toys Internal Security Audit](./Google_Cybersecurity_Certificate/Botium_Toys_Audit/) | Internal security audit covering controls assessment and compliance evaluation across PCI DSS, GDPR, and SOC frameworks | Security auditing, risk assessment, compliance, controls analysis |
 
 ---
 
