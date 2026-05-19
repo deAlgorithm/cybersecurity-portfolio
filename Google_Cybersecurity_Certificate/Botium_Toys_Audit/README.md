@@ -1,8 +1,9 @@
+<img src="https://i.pinimg.com/1200x/a2/df/fd/a2dffd6fcb9ccad6a111cddb1f09dfbe.jpg" width="600"/>
+
 # Botium Toys Internal Security Audit
 
 **Program:** Google Cybersecurity Certificate
 **Completed:** May 2026
-**Grade:** 93.27%
 
 ## Overview
 
