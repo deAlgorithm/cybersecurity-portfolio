@@ -1,3 +1,4 @@
+<img width=50% src="https://i.pinimg.com/736x/fe/ae/83/feae831b3fc6e6cc15393ae3a82ba6ac.jpg" alt="This contains: Young Black woman at a modern desk reviewing the Google Cybersecurity Professional Certificate on one monitor while a second screen shows security dashboards and charts; a notebook with a USB security key sits beside the keyboard in softly lit office surroundings."/>
 # Cybersecurity Portfolio
 
 This repository documents my hands-on cybersecurity work including labs, 
