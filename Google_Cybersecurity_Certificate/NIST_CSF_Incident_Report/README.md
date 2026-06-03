@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/e8/fe/ac/e8feacd47cac4fc4fa36d07082e119d6.jpg" alt="Story pin image"/>
+<img width=50% src="https://i.pinimg.com/736x/e8/fe/ac/e8feacd47cac4fc4fa36d07082e119d6.jpg" alt="Story pin image"/>
 # NIST CSF Incident Report: DoS Attack Analysis
 
 ## Overview
