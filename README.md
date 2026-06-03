@@ -11,6 +11,10 @@ self-study.
 
 ### Google Cybersecurity Certificate
 
+A collection of hands-on portfolio projects completed as part of the Google 
+Cybersecurity Certificate program, documenting practical skills in security 
+auditing, incident response, network security, and Linux administration.
+
 | Project | Description | Skills Demonstrated |
 |---|---|---|
 | [Botium Toys Internal Security Audit](./Google_Cybersecurity_Certificate/Botium_Toys_Audit/) | Internal security audit covering controls assessment and compliance evaluation across PCI DSS, GDPR, and SOC frameworks | Security auditing, risk assessment, compliance, controls analysis |
