@@ -21,6 +21,7 @@ auditing, incident response, network security, and Linux administration.
 | [Botium Toys Internal Security Audit](./Google_Cybersecurity_Certificate/Botium_Toys_Audit/) | Internal security audit covering controls assessment and compliance evaluation across PCI DSS, GDPR, and SOC frameworks | Security auditing, risk assessment, compliance, controls analysis |
 | [NIST CSF Incident Report: DoS Attack Analysis](./Google_Cybersecurity_Certificate/NIST_CSF_Incident_Report/) | Applied the NIST CSF five functions to analyse a DoS attack involving an ICMP flood through an unconfigured firewall | NIST CSF, incident analysis, network security, DoS attack documentation, security hardening |
 | [Linux File Permissions Management](./Google_Cybersecurity_Certificate/Linux_File_Permissions/) | Used Linux commands to examine and manage file permissions in a directory, applying the principle of least privilege to restrict unauthorised access | Linux, chmod, file permissions, authorisation, access control, security hardening |
+| [Vulnerability Assessment Report](./Google_Cybersecurity_Certificate/Vulnerability_Assessment_Report/) | Conducted a vulnerability assessment for an e-commerce company's publicly accessible database server using NIST SP 800-30 Rev. 1, identifying threat sources, scoring risks, and proposing remediation controls | Vulnerability assessment, risk analysis, NIST SP 800-30, threat identification, security controls |
 
 ---
 
